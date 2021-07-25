@@ -337,12 +337,11 @@
             <id>nexus</id>
             <url>http://cu-nexus:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
-        <repository>
-            <id>nexus</id>
-            <url>http://cu-nexus:8081/repository/maven-releases/</url>
-        </repository>
-    </distributionManagement>
-
-
+       <repository>
+      <id>petclinic-releases</id>
+      <url>http://13.233.165.64:8081/repository/petclinic-releases/</url>
+    </repository>
+  </repositories>
+</project>
 
 </project>
