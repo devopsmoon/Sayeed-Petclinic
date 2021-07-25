@@ -331,8 +331,4 @@
             </plugin>
         </plugins>
     </build>
-       <repository>
-      <id>petclinic-releases</id>
-      <url>http://13.233.165.64:8081/repository/petclinic-releases/</url>
-    </repository>
 </project>
